@@ -1,5 +1,5 @@
 # VPN Network Simulation Project
-This served as my thesis application for my bachelors degree.
+This served as my thesis application for my bachelor’s degree.
 
 Video showcase of the project:
 https://youtu.be/D0MvT9yMRUU 
